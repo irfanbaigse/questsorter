@@ -25,7 +25,7 @@ The API is to be an internal PHP API so it will only communicate with other part
 Use composer :
 
 ```
-cd tripsorter
+cd questsorter
 composer install
 ```
 
